@@ -4,7 +4,7 @@ It is a web based resume parser that automatically extracts candidate's resume u
 This application allows users to allows users to upload (there is drag and drop facility) resume end extract details such as name, skill, company, education etc. 
 It helps the recruiters to automate resume screening process and simplifies resume screening process. 
 
-*Features**
+*Features*
 
 * Upload resumes in PDF format
 * Extract important information from resumes
@@ -12,15 +12,15 @@ It helps the recruiters to automate resume screening process and simplifies resu
 * Simple and user-friendly web interface
 * Fast resume parsing using Python
 
-*Tech Stack**
+*Tech Stack*
 
 * Python flask 
 * ollama (Local LLM for resume analysis)
 * HTML CSS
-
+```
 *Project Structure**
 
-'''
+
 resume_parser_using_python
 |
 ├── __DATA__
@@ -39,9 +39,9 @@ resume_parser_using_python
 ├── resume_parser.py
 ├── skills.txt
 
-'''
+```
 
-*Installation**
+*Installation*
 
 * Clone the repository
 
@@ -63,7 +63,7 @@ git clone https://github.com/MalavikaR2901/Resume_Parser_App.git
 
     pip install -r requirements.txt
 
-=*Run the Application**
+=*Run the Application*
 
 * python app.py
 
