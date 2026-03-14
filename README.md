@@ -19,6 +19,8 @@ It helps the recruiters to automate resume screening process and simplifies resu
 * HTML CSS
 
 *Project Structure**
+
+'''
 resume_parser_using_python
 |
 ├── __DATA__
@@ -36,6 +38,8 @@ resume_parser_using_python
 ├── requirements.txt
 ├── resume_parser.py
 ├── skills.txt
+
+'''
 
 *Installation**
 
