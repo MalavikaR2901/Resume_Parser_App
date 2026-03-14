@@ -1,0 +1,11 @@
+config.yaml
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.model
+*.h5
+node_modules/
+.env
+.DS_Store

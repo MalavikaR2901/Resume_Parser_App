@@ -1,0 +1,18 @@
+Python
+Java
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+SQL
+React
+Node.js
+HTML
+CSS
+JavaScript
+Data Analysis
+NLP
+Computer Vision
+Docker
+Kubernetes
+AWS
